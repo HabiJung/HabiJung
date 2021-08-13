@@ -11,11 +11,11 @@ Department of Computer Science and Engineering
 
 # Intersted In
 
-- :computer: Computer Science
+- :computer: **Computer Science**
 
-- :video_game: Computer Graphics
+- :video_game: **Computer Graphics**
 
-- :chart_with_upwards_trend: Investment
+- :chart_with_upwards_trend: **Investment**
 
 
 # GitHub Statistics
@@ -25,4 +25,4 @@ Department of Computer Science and Engineering
 ![HabiJung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabiJung&show_icons=true&theme=dracula&hide=prs,issues&count_private=true)
 
 ---
-Updated : 2021-08-13 20:43
+**Updated :** 2021-08-13 20:49
