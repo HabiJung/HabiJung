@@ -15,7 +15,7 @@ Department of Computer Science and Engineering
 
 - :video_game: Computer Graphics
 
-- :chart_with_upwards-trend: Investment
+- :chart_with_upwards_trend: Investment
 
 
 # GitHub Statistics
