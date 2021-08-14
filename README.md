@@ -9,7 +9,7 @@
 
 # 정하빈 (Habin Jung)
 
-<img src="profile-500x500.jpg" style="border-radius: 30px;" width="200" height="200">
+<img src="profile-500x500.jpg" width="200" height="200" style="border-radius: 30px; -moz-border-radius: 30px; -khtml-border-radius: 30px; -webkit-border-radius: 30px;">
 
 [![Blog-Badge](https://img.shields.io/badge/-Blog-brightgreen?logo=jekyll&style=flat)](https://habijung.github.io)&ensp;
 [![Gmail-Badge](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=flat)](mailto:habijung0@gmail.com)&ensp;
@@ -36,4 +36,4 @@ Department of **Computer Science** and **Engineering**
 ![HabiJung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabiJung&show_icons=true&theme=dracula&hide=prs,issues&count_private=true)
 
 ---
-**Updated :** 2021-08-14 19:25
+**Updated :** 2021-08-14 19:31
