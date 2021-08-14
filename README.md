@@ -1,6 +1,6 @@
 # 정하빈 (Habin Jung)
 
-<img src="./assets/images/img-settings/profile-500x500.jpg" width="200" height="200" style="border-radius: 30px;">
+<img src="profile-500x500.jpg" width="200" height="200" style="border-radius: 30px;">
 <br><br>
 
 [![Blog-Badge](https://img.shields.io/badge/-Blog-brightgreen?logo=jekyll&style=flat)](https://habijung.github.io)&ensp;
