@@ -1,7 +1,15 @@
+<div align="center">
+<img src="logo-88x88.png">
+<br><br>
+
+[![Blog-Title-Badge](https://img.shields.io/badge/-::_BIN___::-70CAC3?style=for-the-badge)](https://habijung.github.io)
+<br>
+</div>
+
+
 # 정하빈 (Habin Jung)
 
 <img src="profile-500x500.jpg" width="200" height="200" style="border-radius: 30px;">
-<br><br>
 
 [![Blog-Badge](https://img.shields.io/badge/-Blog-brightgreen?logo=jekyll&style=flat)](https://habijung.github.io)&ensp;
 [![Gmail-Badge](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=flat)](mailto:habijung0@gmail.com)&ensp;
