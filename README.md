@@ -24,9 +24,11 @@ Department of **Computer Science** and **Engineering**
 
 # Intersted In
 
-:computer: **Computer Science**
-
 :video_game: **Computer Graphics**
+
+:headphones: **Listening to Music, especially Pop and Orchestra**
+
+:musical_score: **Playing the Flute**
 
 :chart_with_upwards_trend: **Investment**
 
