@@ -26,7 +26,7 @@ Department of **Computer Science** and **Engineering**
 
 :video_game: **Computer Graphics**
 
-:headphones: **Listening to Music, especially Pop and Orchestra**
+:headphones: **Listening to Music, especially Pop & Orchestra**
 
 :musical_score: **Playing the Flute**
 
