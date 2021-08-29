@@ -26,8 +26,6 @@ Department of **Computer Science** and **Engineering**
 
 :video_game: **Computer Graphics**
 
-:headphones: **Listening to Music, especially Pop & Orchestra**
-
 :musical_score: **Playing the Flute**
 
 :chart_with_upwards_trend: **Investment**
@@ -40,4 +38,4 @@ Department of **Computer Science** and **Engineering**
 ![habijung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabiJung&show_icons=true&theme=dracula&hide=prs,issues&count_private=true)
 
 ---
-**Updated :** 2021-08-26 00:16
+**Updated :** 2021-08-29 23:06
