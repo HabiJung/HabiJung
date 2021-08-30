@@ -17,7 +17,7 @@
 [![Gmail-Badge](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=flat)](mailto:habijung0@gmail.com)&ensp;
 [![GitHub-Badge](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/habijung)
 
-**Academic Student** @ [**UNIST**](https://unist.ac.kr)
+**Academic Student** @[**UNIST**](https://unist.ac.kr)
 
 Department of **Computer Science** and **Engineering**
 
@@ -38,4 +38,4 @@ Department of **Computer Science** and **Engineering**
 ![habijung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabiJung&show_icons=true&theme=dracula&hide=prs,issues&count_private=true)
 
 ---
-**Updated :** 2021-08-29 23:06
+**Updated :** 2021-08-31 00:22
