@@ -33,11 +33,11 @@ Department of **Computer Science** and **Engineering**
 
 # Current Project
 
-### <img src="img/github-alt-brands.svg" width="30" height="20"></img><a href="https://github.com/habijung/invisibility-cloak-using-opencv"> Invisibility Clock</a>
+### <a href="https://github.com/habijung/invisibility-cloak-using-opencv"><img src="img/github-alt-brands.svg" width="30" height="20"></img> Invisibility Clock</a>
 
 ![progress-invisibility-cloak](img/progress-invisibility-cloak.gif)
 
-### <img src="img/github-alt-brands.svg" width="30" height="20"></img><a href="https://github.com/habijung/kiwoom-openapi"> KIWOOM OpenAPI</a>
+### <a href="https://github.com/habijung/kiwoom-openapi"><img src="img/github-alt-brands.svg" width="30" height="20"></img> KIWOOM OpenAPI</a>
 
 ![progress-kiwoom-openapi](img/progress-kiwoom.gif)
 
@@ -52,4 +52,4 @@ Department of **Computer Science** and **Engineering**
 <br>
 
 ---
-**Updated :** 2021-10-06 13:12
+**Updated :** 2021-10-06 13:19
