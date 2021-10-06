@@ -33,7 +33,7 @@ Department of **Computer Science** and **Engineering**
 
 # Current Project
 
-### <a href="https://github.com/habijung/invisibility-cloak-using-opencv"><img src="img/github-alt-brands.svg" width="30" height="20"></img> Invisibility Clock</a>
+### <a href="https://github.com/habijung/invisibility-cloak-using-opencv"><img src="img/github-alt-brands.svg" width="30" height="20"></img> Invisibility Cloak</a>
 
 ![progress-invisibility-cloak](img/progress-invisibility-cloak.gif)
 
