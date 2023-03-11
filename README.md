@@ -6,50 +6,61 @@
 <br>
 </div>
 
+# ***Big Jump** - MJ Jeon*
 
-# 정하빈 (Habin Jung)
+### HABIJUNG
 
-<!---
-<img src="profile-rounded-500x500.png" width="200" height="200">
---->
+[![Blog-Old](https://img.shields.io/badge/-blog-70CAC3?logo=github&style=for-the-badge)](https://habijung.github.io)&ensp;
+[![Blog-New](https://img.shields.io/badge/-blog(new)-21759B?logo=wordpress&style=for-the-badge)](https://habijung.com)&ensp;
+[![Mail](https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:habijung0@gmail.com)
 
-[![Blog-Badge](https://img.shields.io/badge/-Blog-70CAC3?logo=jekyll&style=flat)](https://habijung.github.io)&ensp;
-[![Gmail-Badge](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=flat)](mailto:habijung0@gmail.com)&ensp;
-[![GitHub-Badge](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/habijung)
+안녕하세요?
 
-**Academic Student** @[**UNIST**](https://unist.ac.kr)
+컴퓨터 그래픽스 신입 개발자 정하빈 입니다.
 
-Department of **Computer Science** and **Engineering**
+늘 새로운 분야에 도전하는 것을 좋아하고, 앞으로 그래픽스 개발자로서 사람들이 온몸으로 체험하고 느낄 수 있는 작품을 만들고 새로운 세계와 영감을 전하고 싶습니다.
 
+### Interested In
 
-# Intersted In
+🎲 **Computer Graphics**
 
-:video_game: **Computer Graphics**
+🎨 **Learn OpenGL**
 
-:musical_score: **Playing the Flute**
+📊 **Algorithmic Trading**
 
-:chart_with_upwards_trend: **Investment**
+### Current Projects
 
+- [🎨 **Learn OpenGL**](https://github.com/habijung/learn-opengl)
 
-# Current Project
+- [📖 **RUST Basic**](https://github.com/habijung/rust-basic)
 
-### <a href="https://github.com/habijung/invisibility-cloak-using-opencv"><img src="img/github-alt-brands.svg" width="30" height="20"></img> Invisibility Cloak</a>
+### Working
 
-![progress-invisibility-cloak](img/progress-invisibility-cloak.gif)
+- **Carpenstreet Inc.** (2022.02 ~)
 
-### <a href="https://github.com/habijung/kiwoom-openapi"><img src="img/github-alt-brands.svg" width="30" height="20"></img> KIWOOM OpenAPI</a>
+  > **Software Engineer**, 3D Tech Team, SW Business
+  >
+  > GitHub [**@carpenstreet**](https://github.com/carpenstreet)
 
-![progress-kiwoom-openapi](img/progress-kiwoom.gif)
+### Programming Languages
 
+![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)&ensp;
+![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&style=for-the-badge)&ensp;
+![OpenGL](https://img.shields.io/badge/-opengl-5586A4?logo=opengl&logoColor=white&style=for-the-badge)&ensp;
+![RUST](https://img.shields.io/badge/-rust-000000?logo=rust&style=for-the-badge)
 
-# GitHub Statistics
+### Tools
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhabijung&count_bg=%2370CAC3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=habijung&edge_flat=false)](https://hits.seeyoufarm.com)
+![Notion](https://img.shields.io/badge/-notion-F7A81B?logo=notion&style=for-the-badge)&ensp;
+![Slack](https://img.shields.io/badge/-slack-4A154B?logo=slack&style=for-the-badge)&ensp;
+![Jira](https://img.shields.io/badge/-jira-0052CC?logo=jira&style=for-the-badge)
 
-![habijung's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabiJung&show_icons=true&theme=dracula&hide=prs,issues&count_private=true)
+### Education
 
+- **Academic Student** [**@UNIST**](https://unist.ac.kr) (2015.03 ~ 2022.02)
 
-<br>
+  > Department of **Computer Science** and **Electrical Engineering**
 
 ---
-**Updated :** 2021-11-12 00:31
+
+**Last updated :** 2023-03-12 03:00
