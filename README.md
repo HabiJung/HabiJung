@@ -38,7 +38,7 @@
 - **Carpenstreet Inc.** (2022.02 - 2023.07)
   > **Software Engineer**, 3D Tech Team, SW Business <br>
   > Homepage: [ACON3D](https://aconed.com) <br>
-  > GitHub [@carpenstreet](https://github.com/carpenstreet)
+  > GitHub: [@carpenstreet](https://github.com/carpenstreet)
 
 
 ### Programming Languages
