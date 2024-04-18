@@ -15,18 +15,17 @@
 
 ### Interested In
 
-🎲 **Computer Graphics**
-
-🎨 **Learn OpenGL**
-
-📊 **Algorithmic Trading**
+- 🎲 Computer Graphics
+- 🎨 Learn OpenGL
+- 📊 Algorithmic Trading
 
 
 ### Current Projects
 
-- [🎨 **Learn OpenGL**](https://github.com/habijung/learn-opengl)
-
-- [📖 **RUST Basic**](https://github.com/habijung/rust-basic)
+- [**Cube Maker**](https://github.com/habijung/cube-maker) (Now)
+- [**Simple 2D CAD**](https://github.com/habijung/simple-2d-cad)
+- [**Invisibility Cloak**](https://github.com/habijung/invisibility-cloak)
+- [**Room Escape Game**](https://github.com/habijung/room-escape-game)
 
 
 ### Working
@@ -59,9 +58,11 @@
 
 ### Education
 
-- **Academic Student** [**@UNIST**](https://unist.ac.kr) (2015.03 ~ 2022.02)
+- **Academic Student** [**@UNIST**](https://unist.ac.kr) (2015.03 - 2022.02)
   > Department of **Computer Science** and **Electrical Engineering**
 
+- **Student @Jinhae Yongwon High School** (2012.03 - 2015.02)
+  > Department of **Natural Sciences**
 
 ---
 
