@@ -22,7 +22,6 @@
 
 ### Current Projects
 
-- [**Cube Maker**](https://github.com/habijung/cube-maker) (Now)
 - [**Simple 2D CAD**](https://github.com/habijung/simple-2d-cad)
 - [**Invisibility Cloak**](https://github.com/habijung/invisibility-cloak)
 - [**Room Escape Game**](https://github.com/habijung/room-escape-game)
